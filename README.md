@@ -1,2 +1,3 @@
-# intelligent-home
-Some Home Intelligence related code
+# intelligent-lightning
+
+Code to support intelligent lightning at home.
